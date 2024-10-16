@@ -40,10 +40,10 @@ body{
     justify-content: space-between;
 }
 .apresentacao__conteudo{
-    width: 638.43rem; /*615px */
+    width: 615px; /*615px */
     display: flex;
     flex-direction: column;
-    gap: 2.5rem; /*40px */
+    gap: 40px /*40px */
 }
 
 .apresentacao__conteudo__titulo{
